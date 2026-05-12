@@ -44,15 +44,6 @@ This repository is a living record of that journey.
 
 ---
 
-## 🛠️ Tools and Frameworks Used
-
-- Python, Jupyter Notebooks, Google Colab
-- PyTorch, TensorFlow and Keras
-- scikit-learn, NumPy, Matplotlib, Seaborn
-- HuggingFace Transformers (BERT, DistilBERT)
-
----
-
 ## 📬 Connect
 
 Feel free to explore the work here. I'm always open to feedback, collaboration, and conversation about AI.
