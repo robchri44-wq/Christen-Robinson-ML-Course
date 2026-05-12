@@ -44,14 +44,6 @@ This repository is a living record of that journey.
 
 ---
 
-## 📬 Connect
-
-Feel free to explore the work here. I am always open to feedback, collaboration, and conversation about AI.
-
-*Christen Robinson | Supreme Moon AI Consulting | Houston, TX*
-
----
-
 ## 🛠️ Tools and Frameworks Used
 
 - Python, Jupyter Notebooks, Google Colab
